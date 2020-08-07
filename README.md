@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A cinema app made with ReactJS. The app allows you to buy tickets for your favourite movies.
+
+## Screenshots
+
+![cinema1](https://i.imgur.com/WZqOryB.png)
+
+![cinema1](https://i.imgur.com/VWbGASX.png)
 
 ## Available Scripts
 
