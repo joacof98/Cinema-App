@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+#hero {
+  background: url(https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  height: 570px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 60px;
+}
+
+#menuBar {
+  background-color: #17b978;
+}
+
+#title {
+  color: #a7ff83;
+  margin-top: 150px;
+  font-size: 90px;
+  text-shadow: 5px 5px 5px black;
+}
+
+#moviesTitle {
+  color: #a7ff83;
+  margin-top: 60px;
+  font-size: 90px;
+  text-shadow: 5px 5px 5px black;
+}
+
+#subtitle {
+  color: #a7ff83;
+  text-shadow: 5px 5px 5px black;
+}
+
+#extrainfo {
+  color: #17b978;
+}
+
+#btns {
+  color: #071a52; 
+  background-color: #a7ff83;
+}
+
+/* Cartelera */
+.cardsGroup {
+  padding: 25px;
+}
+
+#bodyCartelera {
+  background-color: #f0f0f0;
+}
+
+/*Tabla de horarios*/
+#tableHours {
+  margin-top: 80px;
+}
